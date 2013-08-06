@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SBDBT BLE</string>
+    <string name="btn01">1</string>
+    <string name="btn02">2</string>
+    <string name="btn03">3</string>
+    <string name="btn04">4</string>
+    <string name="btn05">5</string>
+    <string name="btn06">6</string>
+    <string name="btn07">7</string>
+    <string name="connect">connect</string>
+    <string name="disconnect">disconnect</string>
+
+</resources>
